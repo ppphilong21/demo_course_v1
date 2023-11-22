@@ -305,13 +305,5 @@
         "course_process": 85,
         "course_status": "Chưa hoàn thành"
         }
-    }],
-
-    "images": [
-        {
-            "id": "1",
-            "upload": "",
-            "ckCsrfToken": ""
-        }
-    ]
+    }]
   }
