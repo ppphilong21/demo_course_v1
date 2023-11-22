@@ -285,25 +285,5 @@
             "language": "urdu",
             "hobby": "Reading"
         }
-    ],
-    "course_user_history": [{
-        "id": "1",
-        "course_name": "Khóa học python 0",
-        "course_owner": {
-            "name": "David Beckham",
-            "username": "david123",
-            "email": "david@gmail.com",
-            "phone": "1-770-736-8031 x56442",
-            "address": {
-                "city": "London",
-                "street": "1st Floor Suite",
-                "country": "Việt Nam"
-            },
-        "date_assign_course": "21/10/2022",
-        "date_done_course": "21/11/2022",
-        "complete_date": "21/11/2023",
-        "course_process": 85,
-        "course_status": "Chưa hoàn thành"
-        }
-    }]
+    ]
   }
